@@ -2,7 +2,7 @@
 - 👀 I’m interested in [Efficient Coding Strategies to Manage and Reduce the Accumulation of Technical Debt]
 - 🌱 I’m currently learning [Discord Bot Creation]
 - 💞️ I’m looking to collaborate on [Network and Communications Focused Applications]
-- 😄 Pronouns: She / THey
+- 😄 Pronouns: She / They
 - ⚡ Fun fact: Your ears and nose never stop growing.
 
 <!---
